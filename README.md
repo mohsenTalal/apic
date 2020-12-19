@@ -370,5 +370,3 @@ Click on Upload and upload policy.
 Post success, navigate to assembly section and check on the left policies panel, you will be finding our commonlog policy.
 Drag and drop in the flow where-ever required and configure the properties as per your configurations.
 yes, its a long post,,,, thanks for being till the end.. I hope it helps to quick start things.
-
-you can check for more details on IBM Knowledgecenter APIC #UDP
